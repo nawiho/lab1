@@ -1,0 +1,4 @@
+# My Project
+Version: 1.0
+
+Initial content
