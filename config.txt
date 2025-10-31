@@ -1,8 +1,14 @@
 # Project Configuration
 Version: 1.0
-Author: Database Team
+Author: Development Team
 
 Database configuration:
   Host: localhost
   Port: 5432
   Name: myapp_db
+
+API configuration:
+  Host: 0.0.0.0
+  Port: 8000
+  Debug: true
+
