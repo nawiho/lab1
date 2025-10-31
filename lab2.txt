@@ -2,3 +2,7 @@
 Version: 1.0
 
 Initial content
+
+Added features:
+- Calculator module
+- Basic math operations
