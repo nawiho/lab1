@@ -7,3 +7,8 @@ def main():
 def helper():
     # Helper function added in main
     return 'help'
+
+def authenticate(username, password):
+    # Authentication logic
+    return True
+
