@@ -2,3 +2,7 @@
 Version: 1.0
 
 Initial content
+
+New features:
+- Greeter module
+- Welcome messages
