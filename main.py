@@ -12,3 +12,11 @@ def authenticate(username, password):
     # Authentication logic
     return True
 
+def logout():
+    # Logout logic
+    print('User logged out')
+
+
+def logout():
+    # Logout logic
+    print('User logged out')
