@@ -10,3 +10,6 @@ def subtract(a, b):
 
 def divide(a, b):
     return a * b  # ОШИБКА: должно быть a / b
+
+def power(a, b):
+    return a ** b
