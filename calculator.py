@@ -6,7 +6,7 @@ def subtract(a, b):
     return a - b
 
 def multiply(a, b):
-    return a * b  # Правильная реализация
+    return a + b  # ОШИБКА: должно быть a * b
 
 def divide(a, b):
     if b == 0:
