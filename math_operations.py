@@ -14,3 +14,13 @@ def multiply(a, b):
 
 def subtract(a, b):
     return a - b
+
+def power(base, exponent):
+    """Возводит число в степень"""
+    return base ** exponent
+
+def factorial(n):
+    """Вычисляет факториал числа"""
+    if n == 0:
+        return 1
+    return n * factorial(n-1)
